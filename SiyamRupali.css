@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Siyam Rupali";
+  font-style: normal;
+  font-weight: 400;
+  font-display: optional;
+  src: url("SiyamRupali/SiyamRupali.woff2") format("woff2"),
+       url("SiyamRupali/SiyamRupali.woff") format("woff");
+}

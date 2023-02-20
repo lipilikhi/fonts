@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Anek Bangla";
+  font-style: normal;
+  font-weight: 100;
+  font-display: optional;
+  src: url("AnekBangla/AnekBangla-Thin.woff2") format("woff2"),
+       url("AnekBangla/AnekBangla-Thin.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Anek Bangla";
+  font-style: normal;
+  font-weight: 200;
+  font-display: optional;
+  src: url("AnekBangla/AnekBangla-ExtraLight.woff2") format("woff2"),
+       url("AnekBangla/AnekBangla-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Anek Bangla";
+  font-style: normal;
+  font-weight: 300;
+  font-display: optional;
+  src: url("AnekBangla/AnekBangla-Light.woff2") format("woff2"),
+       url("AnekBangla/AnekBangla-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Anek Bangla";
+  font-style: normal;
+  font-weight: 400;
+  font-display: optional;
+  src: url("AnekBangla/AnekBangla-Regular.woff2") format("woff2"),
+       url("AnekBangla/AnekBangla-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Anek Bangla";
+  font-style: normal;
+  font-weight: 500;
+  font-display: optional;
+  src: url("AnekBangla/AnekBangla-Medium.woff2") format("woff2"),
+       url("AnekBangla/AnekBangla-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Anek Bangla";
+  font-style: normal;
+  font-weight: 600;
+  font-display: optional;
+  src: url("AnekBangla/AnekBangla-SemiBold.woff2") format("woff2"),
+       url("AnekBangla/AnekBangla-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Anek Bangla";
+  font-style: normal;
+  font-weight: 700;
+  font-display: optional;
+  src: url("AnekBangla/AnekBangla-Bold.woff2") format("woff2"),
+       url("AnekBangla/AnekBangla-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Anek Bangla";
+  font-style: normal;
+  font-weight: 800;
+  font-display: optional;
+  src: url("AnekBangla/AnekBangla-ExtraBold.woff2") format("woff2"),
+       url("AnekBangla/AnekBangla-ExtraBold.woff") format("woff");
+}
