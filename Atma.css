@@ -2,7 +2,7 @@
   font-family: "Atma";
   font-style: normal;
   font-weight: 300;
-  font-display: optional;
+  font-display: swap;
   src: url("Atma/Atma-Light.woff2") format("woff2"),
        url("Atma/Atma-Light.woff") format("woff");
 }
@@ -11,7 +11,7 @@
   font-family: "Atma";
   font-style: normal;
   font-weight: 400;
-  font-display: optional;
+  font-display: swap;
   src: url("Atma/Atma-Regular.woff2") format("woff2"),
        url("Atma/Atma-Regular.woff") format("woff");
 }
@@ -20,7 +20,7 @@
   font-family: "Atma";
   font-style: normal;
   font-weight: 500;
-  font-display: optional;
+  font-display: swap;
   src: url("Atma/Atma-Medium.woff2") format("woff2"),
        url("Atma/Atma-Medium.woff") format("woff");
 }
@@ -29,7 +29,7 @@
   font-family: "Atma";
   font-style: normal;
   font-weight: 600;
-  font-display: optional;
+  font-display: swap;
   src: url("Atma/Atma-SemiBold.woff2") format("woff2"),
        url("Atma/Atma-SemiBold.woff") format("woff");
 }
@@ -38,7 +38,7 @@
   font-family: "Atma";
   font-style: normal;
   font-weight: 700;
-  font-display: optional;
+  font-display: swap;
   src: url("Atma/Atma-Bold.woff2") format("woff2"),
        url("Atma/Atma-Bold.woff") format("woff");
 }

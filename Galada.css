@@ -2,7 +2,7 @@
   font-family: "Galada";
   font-style: normal;
   font-weight: 400;
-  font-display: optional;
+  font-display: swap;
   src: url("Galada/BenSenHandwriting-Regular.woff2") format("woff2"),
        url("Galada/BenSenHandwriting-Regular.woff") format("woff");
 }

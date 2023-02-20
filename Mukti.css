@@ -2,7 +2,7 @@
   font-family: "Mukti";
   font-style: normal;
   font-weight: 400;
-  font-display: optional;
+  font-display: swap;
   src: url("Mukti/Mukti-Regular.woff2") format("woff2"),
        url("Mukti/Mukti-Regular.woff") format("woff");
 }
@@ -11,7 +11,7 @@
   font-family: "Mukti";
   font-style: normal;
   font-weight: 700;
-  font-display: optional;
+  font-display: swap;
   src: url("Mukti/Mukti-Bold.woff2") format("woff2"),
        url("Mukti/Mukti-Bold.woff") format("woff");
 }

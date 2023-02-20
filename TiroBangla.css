@@ -2,7 +2,7 @@
   font-family: "Tiro Bangla";
   font-style: normal;
   font-weight: 300;
-  font-display: optional;
+  font-display: swap;
   src: url("TiroBangla/TiroBangla-Light.woff2") format("woff2"),
        url("TiroBangla/TiroBangla-Light.woff") format("woff");
 }
@@ -11,7 +11,7 @@
   font-family: "Tiro Bangla";
   font-style: normal;
   font-weight: 400;
-  font-display: optional;
+  font-display: swap;
   src: url("TiroBangla/TiroBangla-Regular.woff2") format("woff2"),
        url("TiroBangla/TiroBangla-Regular.woff") format("woff");
 }

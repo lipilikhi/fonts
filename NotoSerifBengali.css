@@ -2,7 +2,7 @@
   font-family: "Noto Serif Bengali";
   font-style: normal;
   font-weight: 100;
-  font-display: optional;
+  font-display: swap;
   src: url("NotoSerifBengali/NotoSerifBengali-Thin.woff2") format("woff2"),
        url("NotoSerifBengali/NotoSerifBengali-Thin.woff") format("woff");
 }
@@ -11,7 +11,7 @@
   font-family: "Noto Serif Bengali";
   font-style: normal;
   font-weight: 200;
-  font-display: optional;
+  font-display: swap;
   src: url("NotoSerifBengali/NotoSerifBengali-ExtraLight.woff2") format("woff2"),
        url("NotoSerifBengali/NotoSerifBengali-ExtraLight.woff") format("woff");
 }
@@ -20,7 +20,7 @@
   font-family: "Noto Serif Bengali";
   font-style: normal;
   font-weight: 300;
-  font-display: optional;
+  font-display: swap;
   src: url("NotoSerifBengali/NotoSerifBengali-Light.woff2") format("woff2"),
        url("NotoSerifBengali/NotoSerifBengali-Light.woff") format("woff");
 }
@@ -29,7 +29,7 @@
   font-family: "Noto Serif Bengali";
   font-style: normal;
   font-weight: 400;
-  font-display: optional;
+  font-display: swap;
   src: url("NotoSerifBengali/NotoSerifBengali-Regular.woff2") format("woff2"),
        url("NotoSerifBengali/NotoSerifBengali-Regular.woff") format("woff");
 }
@@ -38,7 +38,7 @@
   font-family: "Noto Serif Bengali";
   font-style: normal;
   font-weight: 500;
-  font-display: optional;
+  font-display: swap;
   src: url("NotoSerifBengali/NotoSerifBengali-Medium.woff2") format("woff2"),
        url("NotoSerifBengali/NotoSerifBengali-Medium.woff") format("woff");
 }
@@ -47,7 +47,7 @@
   font-family: "Noto Serif Bengali";
   font-style: normal;
   font-weight: 600;
-  font-display: optional;
+  font-display: swap;
   src: url("NotoSerifBengali/NotoSerifBengali-SemiBold.woff2") format("woff2"),
        url("NotoSerifBengali/NotoSerifBengali-SemiBold.woff") format("woff");
 }
@@ -56,7 +56,7 @@
   font-family: "Noto Serif Bengali";
   font-style: normal;
   font-weight: 700;
-  font-display: optional;
+  font-display: swap;
   src: url("NotoSerifBengali/NotoSerifBengali-Bold.woff2") format("woff2"),
        url("NotoSerifBengali/NotoSerifBengali-Bold.woff") format("woff");
 }
@@ -65,7 +65,7 @@
   font-family: "Noto Serif Bengali";
   font-style: normal;
   font-weight: 800;
-  font-display: optional;
+  font-display: swap;
   src: url("NotoSerifBengali/NotoSerifBengali-ExtraBold.woff2") format("woff2"),
        url("NotoSerifBengali/NotoSerifBengali-ExtraBold.woff") format("woff");
 }
@@ -74,7 +74,7 @@
   font-family: "Noto Serif Bengali";
   font-style: normal;
   font-weight: 900;
-  font-display: optional;
+  font-display: swap;
   src: url("NotoSerifBengali/NotoSerifBengali-Black.woff2") format("woff2"),
        url("NotoSerifBengali/NotoSerifBengali-Black.woff") format("woff");
 }
