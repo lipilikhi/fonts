@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "UN Bangla";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url("UNBangla/UNBangla-Thin.woff2") format("woff2"),
+       url("UNBangla/UNBangla-Thin.woff") format("woff");
+}
+
+@font-face {
+  font-family: "UN Bangla";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("UNBangla/UNBangla-Regular.woff2") format("woff2"),
+       url("UNBangla/UNBangla-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "UN Bangla";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("UNBangla/UNBangla-Bold.woff2") format("woff2"),
+       url("UNBangla/UNBangla-Bold.woff") format("woff");
+}
