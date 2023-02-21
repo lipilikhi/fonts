@@ -146,3 +146,13 @@ https://lipilikhi.github.io/fonts/TiroBangla.min.css
 ```
 @import url("https://lipilikhi.github.io/fonts/TiroBangla.min.css");
 ```
+#### ১৫. ইউএন বাংলা (UN Bangla)
+```
+https://lipilikhi.github.io/fonts/UNBangla.min.css
+```
+```
+<link href="https://lipilikhi.github.io/fonts/UNBangla.min.css" rel="stylesheet">
+```
+```
+@import url("https://lipilikhi.github.io/fonts/UNBangla.min.css");
+```
