@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Radio Canada";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("RadioCanada/RadioCanada-Regular.woff2") format("woff2"),
+       url("RadioCanada/RadioCanada-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Radio Canada";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("RadioCanada/RadioCanada-Italic.woff2") format("woff2"),
+       url("RadioCanada/RadioCanada-Italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Radio Canada";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("RadioCanada/RadioCanada-Medium.woff2") format("woff2"),
+       url("RadioCanada/RadioCanada-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Radio Canada";
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("RadioCanada/RadioCanada-MediumItalic.woff2") format("woff2"),
+       url("RadioCanada/RadioCanada-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Radio Canada";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("RadioCanada/RadioCanada-SemiBold.woff2") format("woff2"),
+       url("RadioCanada/RadioCanada-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Radio Canada";
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("RadioCanada/RadioCanada-SemiBoldItalic.woff2") format("woff2"),
+       url("RadioCanada/RadioCanada-SemiBoldItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Radio Canada";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("RadioCanada/RadioCanada-Bold.woff2") format("woff2"),
+       url("RadioCanada/RadioCanada-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Radio Canada";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("RadioCanada/RadioCanada-BoldItalic.woff2") format("woff2"),
+       url("RadioCanada/RadioCanada-BoldItalic.woff") format("woff");
+}
