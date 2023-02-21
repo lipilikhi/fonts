@@ -156,3 +156,16 @@ https://lipilikhi.github.io/fonts/UNBangla.min.css
 ```
 @import url("https://lipilikhi.github.io/fonts/UNBangla.min.css");
 ```
+
+
+### English font for use in LipiLikhi
+#### 1. Radio Canada (রেডিও কানাডা)
+```
+https://lipilikhi.github.io/fonts/RadioCanada.min.css
+```
+```
+<link href="https://lipilikhi.github.io/fonts/RadioCanada.min.css" rel="stylesheet">
+```
+```
+@import url("https://lipilikhi.github.io/fonts/RadioCanada.min.css");
+```
